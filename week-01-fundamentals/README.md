@@ -22,10 +22,10 @@
 - [ ] Assignment 2: [Description]
 
 ## 🔗 Resources
-- [Session Recording](link) https://isomatech.com 
+- [Session Recording](link) 
 - [Slides](link)
 - [Additional Reading](link) 
-https://drive.google.com/drive/folders/18CIUU91_j7_WdtHv71HcsXKbpPeJwtkb?usp=share_link 
+
 
 ## 🤔 Reflections
 [Add your thoughts, challenges, and insights]
