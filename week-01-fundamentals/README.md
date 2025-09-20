@@ -22,14 +22,15 @@
 - [ ] Assignment 2: [Description]
 
 ## 🔗 Resources
-- [Session Recording](link)
+- [Session Recording](link) https://isomatech.com 
 - [Slides](link)
-- [Additional Reading](link)
+- [Additional Reading](link) 
+https://drive.google.com/drive/folders/18CIUU91_j7_WdtHv71HcsXKbpPeJwtkb?usp=share_link 
 
 ## 🤔 Reflections
 [Add your thoughts, challenges, and insights]
 
 ## ⭐ Key Takeaways
-1. [Takeaway 1]
+1. [Takeaway 1] 
 2. [Takeaway 2]
 3. [Takeaway 3]
